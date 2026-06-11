@@ -8,8 +8,8 @@ member_list = {
         "Email": "matthew.jones@gmail.com",
         "Password": "Test123"
     },
-        "Douglas Thomas": {
+    "Douglas Thomas": {
         "Email": "dthomas@gmail.com",
         "Password": "Test123"
-    },
+    }
 }

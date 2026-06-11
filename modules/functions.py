@@ -23,3 +23,24 @@ def getMenu():
                 print("\nPlease select 1 - 7\n")    
         except ValueError:
             print("Invalid. Please select 1-7")
+            
+def test_1():
+    print("test 1")
+    
+def test_2():
+    print("test 2")
+    
+def test_3():
+    print("test 3")
+    
+def test_4():
+    print("test 4")
+    
+def test_5():
+    print("test 5")
+    
+def test_6():
+    print("test 6")
+    
+def test_7():
+    print("test 7")
